@@ -1,3 +1,9 @@
+# Download Data
+
+Download `sample` data and `models` folder data to run object detection
+
+<a href="https://drive.google.com/drive/folders/1d_3RH8jRFvkUpcorVYdYMmuV4c2DuT3z">Download Data</a>
+
 # Understanding Youtube8m Dataset
 
 <a href="https://github.com/kamuc2012/ytm-data-poc/blob/main/understanding_ytm_dataset.ipynb">Understanding Youtube8m Dataset</a>
