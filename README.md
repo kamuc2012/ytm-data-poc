@@ -10,11 +10,11 @@ Download `sample` data and `models` folder data to run object detection
 
 # Object Detection - Image
 
-<a href="https://github.com/kamuc2012/ytm-data-poc/blob/main/understanding_ytm_dataset.ipynb">Object Detection - Image</a>
+<a href="https://github.com/kamuc2012/ytm-data-poc/blob/main/object_detection_image.ipynb">Object Detection - Image</a>
 
 # Object Detection - Video
 
-<a href="https://github.com/kamuc2012/ytm-data-poc/blob/main/understanding_ytm_dataset.ipynb">Object Detection - Video</a>
+<a href="https://github.com/kamuc2012/ytm-data-poc/blob/main/object_detection_video.ipynb">Object Detection - Video</a>
 
 # Documentation
 
